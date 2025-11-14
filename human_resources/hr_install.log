@@ -1,0 +1,6 @@
+      Enter a password for the user HR: **
+
+
+Enter a tablespace for HR [USERS]: 
+Do you want to overwrite the schema, if it already exists? [YES|no]: YES
+  
